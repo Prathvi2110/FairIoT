@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="512" height="512" role="img" aria-label="FairIoT connected comparison mark">
+  <rect x="1" y="1" width="42" height="42" rx="13" fill="#EFF7FB"/>
+  <path d="M13 30V14h18M13 22h13" fill="none" stroke="#102A43" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="31" cy="14" r="3.2" fill="#0B8F87"/>
+  <circle cx="27" cy="22" r="2.4" fill="#6AC7BB"/>
+  <path d="M13 30h7m2 0h9" fill="none" stroke="#0B8F87" stroke-width="2.6" stroke-linecap="round"/>
+</svg>

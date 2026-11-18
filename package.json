@@ -1,0 +1,12 @@
+{
+  "name": "fairiot",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "dev": "pnpm --filter @fairiot/frontend dev",
+    "build": "pnpm --filter @fairiot/frontend build",
+    "typecheck": "pnpm --filter @fairiot/frontend typecheck",
+    "preview": "pnpm --filter @fairiot/frontend preview"
+  }
+}
